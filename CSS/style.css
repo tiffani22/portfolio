@@ -190,10 +190,6 @@ footer {
     text-decoration: underline;
   }
 
-  #img-profile{
-    margin-left: 30%;
-  }
-  
   #contact-section ul {
     display: flex;
     padding: 0;
